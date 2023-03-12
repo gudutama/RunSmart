@@ -1,0 +1,19 @@
+@import "base/bootstrap-reboot";
+
+@import "libs/slick";
+@import "libs/icons";
+
+.no-scroll {
+  overflow: hidden;
+}
+
+@import "blocks/container";
+@import "blocks/buttons";
+@import "blocks/promo";
+@import "blocks/advantages";
+@import "blocks/consultation";
+@import "blocks/slider";
+@import "blocks/catalog";
+@import "blocks/reviews";
+@import "blocks/footer";
+@import "blocks/modals";
